@@ -2,6 +2,7 @@
 
 [![Build Status](https://img.shields.io/travis/vscode-contrib/vscode-versionlens/master.svg)](https://travis-ci.org/vscode-contrib/vscode-versionlens "Check this project's build status on TravisCI")
 [![Known Vulnerabilities](https://snyk.io/test/github/vscode-contrib/vscode-versionlens/badge.svg)](https://snyk.io/test/github/vscode-contrib/vscode-versionlens)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGorniv%2Fvscode-versionlens.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGorniv%2Fvscode-versionlens?ref=badge_shield)
 
 
 Shows package version information for npm, jspm, dub and dotnet core in the [Visual Studio Code](https://github.com/microsoft/vscode) editor.
@@ -30,3 +31,6 @@ Supports
 Licensed under MIT
 
 Copyright &copy; 2016+ [contributors](https://github.com/vscode-contrib/vscode-versionlens/graphs/contributors)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGorniv%2Fvscode-versionlens.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGorniv%2Fvscode-versionlens?ref=badge_large)
